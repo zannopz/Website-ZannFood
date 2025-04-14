@@ -22,7 +22,7 @@
 
 ### Demo Screeshots
 
-![Tourest Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Tourest Desktop Demo](./PNG/zannfood1.png "Desktop Demo")
 
 ### Prerequisites
 
