@@ -4,9 +4,17 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/tourest)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/tourest?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/tourest?style=social)
-  [![TikTok Follow](https://img.shields.io/badge/TikTok-Follow%20%40zannopz-black?logo=tiktok&style=social)](https://www.tiktok.com/@zannopz?is_from_webapp=1&sender_device=pc)
   [![TikTok](https://img.shields.io/badge/TikTok-%40zannopz-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@zannopz?is_from_webapp=1&sender_device=pc)
 [![Instagram](https://img.shields.io/badge/Instagram-%40zann__opz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zann_opz/)
+
+
+![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/tourest)
+![GitHub stars](https://img.shields.io/github/stars/codewithsadee/tourest?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewithsadee/tourest?style=social)
+![Repo Size](https://img.shields.io/github/repo-size/codewithsadee/tourest?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/codewithsadee/tourest?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/codewithsadee/tourest?style=for-the-badge)
+
 
   <br />
   <br />
