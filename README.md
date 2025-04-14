@@ -65,31 +65,3 @@ This project is **free to use** and does not contains any license.
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00F5FF&vCenter=true&width=435&lines=👾+Welcome+to+my+Neon+World...;⚡+I'm+YourUsername+the+Code+Ronin.;🦾+Cyberpunk+Dev+%7C+Anime+Fan+%7C+Night+Coder" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhqajNna3pyZzR5Z3BnaHlvM25sdGxqMmZ3Znd2dzZhdmRtZDFubyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ao9DUiTKH60XS/giphy.gif" width="300" />
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff00cc,333399&height=200&section=header&text=Hello%20World!&fontSize=40&fontColor=ffffff" />
-
-<h3>🖥️ My Latest Project</h3>
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="500" />
-
-![Anime Banner](https://images8.alphacoders.com/101/thumb-1920-1014984.png)
-
-![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
-
-<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="400" />
