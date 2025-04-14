@@ -80,5 +80,16 @@ This project is **free to use** and does not contains any license.
 
 
 
-<img src="https://raw.githubusercontent.com/lowlighter/metrics/master/github-metrics.svg" alt="Metrics">
 
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff00cc,333399&height=200&section=header&text=Hello%20World!&fontSize=40&fontColor=ffffff" />
+
+<h3>🖥️ My Latest Project</h3>
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="500" />
+
+![Anime Banner](https://images8.alphacoders.com/101/thumb-1920-1014984.png)
+
+![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
+
+<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="400" />
