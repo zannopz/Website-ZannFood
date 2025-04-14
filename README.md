@@ -4,7 +4,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/tourest)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/tourest?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/tourest?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)]((https://www.tiktok.com/@zannopz?is_from_webapp=1&sender_device=pc)_)
+[![Titkok Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)]((https://www.tiktok.com/@zannopz?is_from_webapp=1&sender_device=pc)_)
   [![YouTube Video Views](https://img.shields.io/youtube/views/9ts7JnruWg4?style=social)](https://youtu.be/9ts7JnruWg4)
 
   <br />
