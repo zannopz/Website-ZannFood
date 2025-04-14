@@ -73,10 +73,3 @@ Anda bebas untuk menyalin, mengubah, mendistribusikan, atau menggunakan ulang ko
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00F5FF&vCenter=true&width=435&lines=👾+Welcome+to+my+Zann+Food...;⚡+I'm+ZannOpz+the+Code+Website.;🦾+Cyberpunk+Dev+%7C+Anime+Fan+%7C+Night+Coder" alt="Typing SVG" />
 </h1>
-
-<div align="center">
-<a href="https://github.com/piyushsuthar/github-readme-quotes">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Ngoding%20Dulu,%20Jagonya%20Belakangan&author=ZannOpz&border=true&borderColor=00ff00&textColor=00ff00" alt="Readme Quotes" />
-</a>
-</div>
-
