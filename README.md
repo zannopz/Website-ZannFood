@@ -10,9 +10,10 @@
   <br />
   <br />
 
-  <h2 align="center">Tourest - Travel website</h2>
+  <h2 align="center">Website - Zannfood</h2>
 
-  Tourest is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  Website ke-1 gua yang dimana mungkin masih banyak kurangnya yaitu dari Segi ke-Resposifan belum ada sama sekali, 
+  jadi Website tersebut belum sempurna untuk Mobile.
 
   <a href="https://zannopz.github.io/Website-ZannFood/"><strong>➥ Live Demo</strong></a>
 
