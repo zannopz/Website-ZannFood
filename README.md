@@ -1,5 +1,10 @@
-# Website-ZannFood
 <div align="center">
+<h1 align="center">Hi, I'm Zann_Opz 👋</h1>
+<p align="center">🌸 A Frontend Developer who loves turning coffee into beautiful user interfaces.</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Tailwind+%7C+Three.js+Lover;Let's+build+cool+stuff+together!" alt="Typing SVG" />
+</p>
 
   [![TikTok](https://img.shields.io/badge/TikTok-%40zannopz-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@zannopz?is_from_webapp=1&sender_device=pc)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/tourest?style=social)
@@ -59,55 +64,4 @@ If you want to contact with me you can reach me at [Twitter](https://www.twitter
 ### License
 
 This project is **free to use** and does not contains any license.
-
-
-
-
-<h1 align="center">Hi, I'm Zann_Opz 👋</h1>
-<p align="center">🌸 A Frontend Developer who loves turning coffee into beautiful user interfaces.</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Tailwind+%7C+Three.js+Lover;Let's+build+cool+stuff+together!" alt="Typing SVG" />
-</p>
-
----
-
-## 🚀 Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,git,github,threejs" />
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<p align="center">
-  <!-- Instagram -->
-  [![Instagram](https://img.shields.io/badge/Instagram-%40zann__opz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zann_opz/)
-  <!-- TikTok -->
-  [![TikTok](https://img.shields.io/badge/TikTok-%40zannopz-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@zannopz)
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zannopz&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zannopz&theme=tokyonight" width="48%" />
-</p>
-
----
-
-## 📁 My Repo Stats
-
-![Repo Size](https://img.shields.io/github/repo-size/codewithsadee/tourest?style=flat-square)
-![Stars](https://img.shields.io/github/stars/codewithsadee/tourest?style=flat-square)
-![Forks](https://img.shields.io/github/forks/codewithsadee/tourest?style=flat-square)
-
----
-
-> 💬 *“Design isn't just what it looks like and feels like — design is how it works.”*  
-> — *Steve Jobs*
-
 
