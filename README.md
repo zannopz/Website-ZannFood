@@ -67,3 +67,10 @@ Anda bebas untuk menyalin, mengubah, mendistribusikan, atau menggunakan ulang ko
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00F5FF&vCenter=true&width=435&lines=👾+Welcome+to+my+Neon+World...;⚡+I'm+YourUsername+the+Code+Ronin.;🦾+Cyberpunk+Dev+%7C+Anime+Fan+%7C+Night+Coder" alt="Typing SVG" />
 </h1>
+
+
+
+
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
