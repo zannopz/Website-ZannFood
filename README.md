@@ -54,13 +54,14 @@ Windows:
 git clone https://zannopz.github.io/Website-ZannFood/
 ```
 
-### Contact
+### Kontak
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/zann_opz/).
 
-### License
+### Lisensi
 
-This project is **free to use** and does not contains any license.
+Proyek ini gratis untuk digunakan dan tidak mengandung lisensi apa pun.
+Anda bebas untuk menyalin, mengubah, mendistribusikan, atau menggunakan ulang kode ini untuk keperluan pribadi maupun komersial tanpa batasan. Namun, proyek ini disediakan sebagaimana adanya, tanpa jaminan atau tanggung jawab dari pengembang.
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00F5FF&vCenter=true&width=435&lines=👾+Welcome+to+my+Neon+World...;⚡+I'm+YourUsername+the+Code+Ronin.;🦾+Cyberpunk+Dev+%7C+Anime+Fan+%7C+Night+Coder" alt="Typing SVG" />
