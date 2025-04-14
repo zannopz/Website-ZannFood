@@ -65,7 +65,7 @@ Proyek ini gratis untuk digunakan dan tidak mengandung lisensi apa pun.
 Anda bebas untuk menyalin, mengubah, mendistribusikan, atau menggunakan ulang kode ini untuk keperluan pribadi maupun komersial tanpa batasan. Namun, proyek ini disediakan sebagaimana adanya, tanpa jaminan atau tanggung jawab dari pengembang.
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00F5FF&vCenter=true&width=435&lines=👾+Welcome+to+my+Neon+World...;⚡+I'm+YourUsername+the+Code+Ronin.;🦾+Cyberpunk+Dev+%7C+Anime+Fan+%7C+Night+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00F5FF&vCenter=true&width=435&lines=👾+Welcome+to+my+Zann+Food...;⚡+I'm+ZannOpz+the+Code+Website.;🦾+Cyberpunk+Dev+%7C+Anime+Fan+%7C+Night+Coder" alt="Typing SVG" />
 </h1>
 
 
@@ -74,6 +74,26 @@ Anda bebas untuk menyalin, mengubah, mendistribusikan, atau menggunakan ulang ko
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Ngoding%20Dulu,%20Jagonya%20Belakangan&author=ZannOpz&border=true&borderColor=00ff00" alt="Readme Quotes" />
 </a>
+
+</div>
+
+
+
+
+
+
+
+
+
+<div align="center" style="border: 2px solid #00ff00; border-radius: 10px; padding: 20px; display: inline-block;">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00F5FF&vCenter=true&width=435&lines=👾+Welcome+to+my+Zann+Food...;⚡+I'm+ZannOpz+the+Code+Website.;🦾+Cyberpunk+Dev+%7C+Anime+Fan+%7C+Night+Coder" alt="Typing SVG" />
+
+  <br><br>
+
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Ngoding%20Dulu,%20Jagonya%20Belakangan&author=ZannOpz&border=true&borderColor=00ff00" alt="Readme Quotes" />
+  </a>
 
 </div>
 
