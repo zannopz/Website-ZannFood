@@ -45,13 +45,13 @@ To run **Tourest** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/tourest.git
+sudo git clone https://zannopz.github.io/Website-ZannFood/
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/tourest.git
+git clone https://zannopz.github.io/Website-ZannFood/
 ```
 
 ### Contact
