@@ -11,9 +11,6 @@
   ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/tourest?style=social)
 [![Instagram](https://img.shields.io/badge/Instagram-%40zann__opz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zann_opz/)
 
-
-
-
   <br />
   <br />
 
@@ -65,6 +62,18 @@ If you want to contact with me you can reach me at [Twitter](https://www.twitter
 
 This project is **free to use** and does not contains any license.
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00F5FF&vCenter=true&width=435&lines=👾+Welcome+to+my+Neon+World...;⚡+I'm+YourUsername+the+Code+Ronin.;🦾+Cyberpunk+Dev+%7C+Anime+Fan+%7C+Night+Coder" alt="Typing SVG" />
+</h1>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhqajNna3pyZzR5Z3BnaHlvM25sdGxqMmZ3Znd2dzZhdmRtZDFubyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ao9DUiTKH60XS/giphy.gif" width="300" />
+</p>
+
+---
+
+## 🧬 Who Am I?
+
+```bash
+> Cyberpunk.Dev.exe --run
+
