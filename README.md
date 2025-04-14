@@ -5,7 +5,6 @@
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/tourest?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/tourest?style=social)
   [![TikTok Follow](https://img.shields.io/badge/TikTok-Follow%20%40zannopz-black?logo=tiktok&style=social)](https://www.tiktok.com/@zannopz?is_from_webapp=1&sender_device=pc)
-[![Instagram Follow](https://img.shields.io/badge/Instagram-Follow%20%40zann__opz-E4405F?logo=instagram&logoColor=white&style=social)](https://www.instagram.com/zann_opz/)
 [![Instagram](https://img.shields.io/badge/Instagram-%40zann__opz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zann_opz/)
 
   <br />
