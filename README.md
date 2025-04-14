@@ -79,15 +79,13 @@ Anda bebas untuk menyalin, mengubah, mendistribusikan, atau menggunakan ulang ko
   </a>
 </div>
 
-
 <div align="center">
 
 <h3>Ngoding Dulu, Jagonya Belakangan</h3>
 <p><em>- ZannOpz</em></p>
 
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Ngoding%20Dulu,%20Jagonya%20Belakangan" alt="Readme Quotes" />
 </a>
 
 </div>
-
