@@ -70,10 +70,4 @@ This project is **free to use** and does not contains any license.
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhqajNna3pyZzR5Z3BnaHlvM25sdGxqMmZ3Znd2dzZhdmRtZDFubyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ao9DUiTKH60XS/giphy.gif" width="300" />
 </p>
 
----
-
-## 🧬 Who Am I?
-
-```bash
-> Cyberpunk.Dev.exe --run
 
