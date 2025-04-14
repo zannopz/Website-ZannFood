@@ -73,3 +73,23 @@ Anda bebas untuk menyalin, mengubah, mendistribusikan, atau menggunakan ulang ko
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00F5FF&vCenter=true&width=435&lines=👾+Welcome+to+my+Zann+Food...;⚡+I'm+ZannOpz+the+Code+Website.;🦾+Cyberpunk+Dev+%7C+Anime+Fan+%7C+Night+Coder" alt="Typing SVG" />
 </h1>
+
+
+
+
+
+
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)
+
+
+![Last.fm Now Playing](https://lastfm-recently-played.vercel.app/api?user=yourlastfmusername)
+
+
+<img src="https://github-readme-spotify.vercel.app/api/now-playing?open=true&uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" />
+
+
+🎧 Favorite Track:
+[![Lo-fi beat](https://img.youtube.com/vi/5qap5aO4i9A/hqdefault.jpg)](https://soundcloud.com/yourtracklink)
+
+
+[![Now Playing](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
