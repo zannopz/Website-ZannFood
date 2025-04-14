@@ -66,6 +66,5 @@ If you want to contact with me you can reach me at [Twitter](https://www.twitter
 This project is **free to use** and does not contains any license.
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&color=%23F7F7F7&size=24&center=true&vCenter=true&multiline=true&lines=$%20npm+install+cool-README;Initializing...;Ready+to+go!+🚀" alt="typing effect" />
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
