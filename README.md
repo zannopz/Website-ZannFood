@@ -1,19 +1,10 @@
 # Website-ZannFood
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/tourest)
+
+  [![TikTok](https://img.shields.io/badge/TikTok-%40zannopz-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@zannopz?is_from_webapp=1&sender_device=pc)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/tourest?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/tourest?style=social)
-  [![TikTok](https://img.shields.io/badge/TikTok-%40zannopz-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@zannopz?is_from_webapp=1&sender_device=pc)
-[![Instagram](https://img.shields.io/badge/Instagram-%40zann__opz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zann_opz/)
-
-
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/tourest)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/tourest?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/tourest?style=social)
-![Repo Size](https://img.shields.io/github/repo-size/codewithsadee/tourest?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/codewithsadee/tourest?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/codewithsadee/tourest?style=for-the-badge)
+[![Instagram](https://img.shields.io/badge/Instagram-%40zann__opz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zann_opz/
 
 
   <br />
