@@ -90,7 +90,5 @@ Anda bebas untuk menyalin, mengubah, mendistribusikan, atau menggunakan ulang ko
 
 [![Now Playing](https://img.youtube.com/vi/P-P3L7YzlyE/hqdefault.jpg)](https://www.youtube.com/watch?v=P-P3L7YzlyE)
 
-[![Now Playing on TikTok](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TikTok_logo.svg/1200px-TikTok_logo.svg.png)](https://www.tiktok.com/@kai_bigbang/video/7491177708714511622)
-
 
 
