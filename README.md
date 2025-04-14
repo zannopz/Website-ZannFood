@@ -88,4 +88,4 @@ Anda bebas untuk menyalin, mengubah, mendistribusikan, atau menggunakan ulang ko
 <img src="https://github-readme-spotify.vercel.app/api/now-playing?open=true&uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" />
 
 
-[![Now Playing](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=P-P3L7YzlyE)
+[![Now Playing](https://img.youtube.com/vi/P-P3L7YzlyE/hqdefault.jpg)](https://www.youtube.com/watch?v=P-P3L7YzlyE)
