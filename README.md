@@ -56,7 +56,8 @@ git clone https://zannopz.github.io/Website-ZannFood/
 
 ### Kontak
 
-If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/zann_opz/).
+Jika Lu pengen bertanya-tanya langsung ajja ke Instagram gua [Instagram](https://www.instagram.com/zann_opz/). [![Instagram](https://img.shields.io/badge/Instagram-@zann__opz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zann_opz/)
+
 
 ### Lisensi
 
