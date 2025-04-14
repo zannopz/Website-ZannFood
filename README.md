@@ -93,3 +93,5 @@ Anda bebas untuk menyalin, mengubah, mendistribusikan, atau menggunakan ulang ko
 
 [![Now Playing](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TikTok_logo.svg/1200px-TikTok_logo.svg.png)](https://www.tiktok.com/@zann_opz/video/74911777087145116)
 
+[![Now Playing](https://bg2.jpeg/bg11.jpg)](https://www.tiktok.com/@zann_opz/video/74911777087145116)
+
