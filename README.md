@@ -14,6 +14,7 @@
 
   Website ke-1 gua yang dimana mungkin masih banyak kurangnya yaitu dari Segi ke-Resposifan belum ada sama sekali, 
   jadi Website tersebut belum sempurna untuk Mobile.
+  Lalu website saya ini dikombinasikan masih dengan Bahasa Pemograman basic yaitu HTML dan CSS saja.
 
   <a href="https://zannopz.github.io/Website-ZannFood/"><strong>➥ Live Demo</strong></a>
 
