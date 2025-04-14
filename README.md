@@ -79,4 +79,5 @@ This project is **free to use** and does not contains any license.
 
 
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00F5FF&width=435&lines=⚡+Let's+build+the+future+together...;🦾+From+code+to+cyberdreams..." alt="Cyber Outro" /> </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=system+breach...;access+granted+_+_+_;welcome+back+cyberdev" />
