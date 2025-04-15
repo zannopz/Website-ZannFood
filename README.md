@@ -9,10 +9,8 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;HTML+%7C+CSS+%7C+Three.js+Lover;Let's+build+cool+stuff+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;HTML+%7C+CSS+%7C+Js and UI/UX+Lover;Let's+build+cool+stuff+together!" alt="Typing SVG" />
 </p>
-
-
 
   [![TikTok](https://img.shields.io/badge/TikTok-%40zannopz-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@zannopz?is_from_webapp=1&sender_device=pc)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/tourest?style=social)
