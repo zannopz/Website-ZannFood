@@ -26,7 +26,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
-<br></center>
+</center>
 <p align="center">A Frontend Developer who loves turning coffee into beautiful user interfaces.</p>
 
 <div align="center">
@@ -95,5 +95,7 @@ Jika Lu pengen bertanya-tanya langsung ajja ke Instagram gua [![Instagram](https
 Proyek ini gratis untuk digunakan dan tidak mengandung lisensi apa pun.
 Anda bebas untuk menyalin, mengubah, mendistribusikan, atau menggunakan ulang kode ini untuk keperluan pribadi maupun komersial tanpa batasan. Namun, proyek ini disediakan sebagaimana adanya, tanpa jaminan atau tanggung jawab dari pengembang.
 
-
+<div align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenNyZXdtdjZ0OXF0NWhwMW54Y3BzdHNyejMxb29yajVnejIzeDRpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S7O1QhukpeeSok0zCr/giphy.gif" height="12px" width="1000">
+</div></div>
 
