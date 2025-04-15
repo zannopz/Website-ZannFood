@@ -68,18 +68,7 @@ Jika Lu pengen bertanya-tanya langsung ajja ke Instagram gua [![Instagram](https
 Proyek ini gratis untuk digunakan dan tidak mengandung lisensi apa pun.
 Anda bebas untuk menyalin, mengubah, mendistribusikan, atau menggunakan ulang kode ini untuk keperluan pribadi maupun komersial tanpa batasan. Namun, proyek ini disediakan sebagaimana adanya, tanpa jaminan atau tanggung jawab dari pengembang.
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00F5FF&vCenter=true&width=435&lines=👾+Welcome+to+my+Zann+Food...;⚡+I'm+ZannOpz+the+Code+Website.;🦾+Cyberpunk+Dev+%7C+Anime+Fan+%7C+Night+Coder" alt="Typing SVG" />
-</h1>
-
-
-# Animation
-
-![](https://i.pinimg.com/originals/f9/60/75/f96075e0ac443e971d3555ef16751307.gif)
-
-Battlefield 3 Loading Indicator (A PEN BY Gareth Weaver) - [Preview](https://codepen.io/garethdweaver/full/zdElu/)  |  [CodePen](https://codepen.io/garethdweaver/pen/zdElu) 
-
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=53B14F&width=435&lines=Hi+there!+👋;I'm+a+Developer+who+loves+Code.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 
 
