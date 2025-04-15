@@ -9,6 +9,10 @@
 </div>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;HTML+%7C+CSS+%7C+Javascript+Lover;Let's+build+cool+stuff+together!" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript UI/UX+Lover;Let's+build+cool+stuff+together!" alt="Typing SVG" />
 </p>
 
