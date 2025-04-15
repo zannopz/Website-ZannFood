@@ -58,8 +58,6 @@
 </div>
 </div>
 
-<br />
-
 ### Demo Screeshots
 
 ![Tourest Desktop Demo](./PNG/zannfood1.png "Desktop Demo")
