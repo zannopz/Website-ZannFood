@@ -58,10 +58,12 @@
 </div>
 </div>
 
+
 ### Demo Screeshots
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJydm40eWEzN2xpNmtqM3Y5YXM4OGJ6YXNqODR0OGg0bWowZDdycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y30LCMuHRVbxK/giphy.gif" width="300">
 </div>
+
 ![Tourest Desktop Demo](./PNG/zannfood1.png "Desktop Demo")
 ![Tourest Desktop Demo](./PNG/zannfood2.png "Desktop Demo")
 ![Tourest Desktop Demo](./PNG/zannfood3.png "Desktop Demo")
