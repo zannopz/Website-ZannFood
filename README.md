@@ -68,7 +68,8 @@ Jika Lu pengen bertanya-tanya langsung ajja ke Instagram gua [![Instagram](https
 Proyek ini gratis untuk digunakan dan tidak mengandung lisensi apa pun.
 Anda bebas untuk menyalin, mengubah, mendistribusikan, atau menggunakan ulang kode ini untuk keperluan pribadi maupun komersial tanpa batasan. Namun, proyek ini disediakan sebagaimana adanya, tanpa jaminan atau tanggung jawab dari pengembang.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=53B14F&width=435&lines=Hi+there!+👋;I'm+a+Developer+who+loves+Code.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hello+World!;I+am+31k6ngdugvguxcp2hxrl5bywa3ia.;Frontend+%7C+Backend+%7C+Music+Lover;Check+out+my+projects+below!)](https://git.io/typing-svg)
+
 
 
 
