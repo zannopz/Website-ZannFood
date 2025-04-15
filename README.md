@@ -88,9 +88,13 @@ Anda bebas untuk menyalin, mengubah, mendistribusikan, atau menggunakan ulang ko
 <img src="https://github-readme-spotify.vercel.app/api/now-playing?open=true&uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" />
 
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31k6ngdugvguxcp2hxrl5bywa3ia&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)
-![Now Playing](https://github-readme-spotify.vercel.app/api/now-playing?open=true&uid=31k6ngdugvguxcp2hxrl5bywa3ia&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)
-<img src="https://github-readme-spotify.vercel.app/api/now-playing?open=true&uid=31k6ngdugvguxcp2hxrl5bywa3ia&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" />
+# Animation
+
+![](https://i.pinimg.com/originals/f9/60/75/f96075e0ac443e971d3555ef16751307.gif)
+
+Battlefield 3 Loading Indicator (A PEN BY Gareth Weaver) - [Preview](https://codepen.io/garethdweaver/full/zdElu/)  |  [CodePen](https://codepen.io/garethdweaver/pen/zdElu) 
+
+---
 
 
 
