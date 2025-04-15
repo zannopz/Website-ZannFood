@@ -28,8 +28,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 <br><br></center>
-
-  
 <p align="center">A Frontend Developer who loves turning coffee into beautiful user interfaces.</p>
 
 <div align="center">
